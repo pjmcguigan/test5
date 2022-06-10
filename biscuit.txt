@@ -5,7 +5,6 @@ git config --global user.email "pj_mcguigan@hotmail.com"
 git config --global user.name "Paul McGuigan"
 
 
-More text in here
 
 {% block metatitle %}{{ "Pomora Olive Tree Adoption |  Premium Italian Olive Oil" }}{% endblock metatitle %}
 
