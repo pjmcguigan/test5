@@ -1,0 +1,11 @@
+python manage.py runserver
+
+git config --global user.email "pj_mcguigan@hotmail.com"
+
+git config --global user.name "Paul McGuigan"
+
+
+
+{% block metatitle %}{{ "Pomora Olive Tree Adoption |  Premium Italian Olive Oil" }}{% endblock metatitle %}
+
+{% block metatitle %}{{ "Pomora Italian Olive Oil from Campania | Adopt An Olive Tree" }}{% endblock metatitle %}
